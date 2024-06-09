@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "name": "Biskuit",
+      "price": 6000,
+      "stock": 1,
+      "imageUrl": "/img/biskuit.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Chips",
+      "price": 8000,
+      "stock": 0,
+      "imageUrl": "/img/chips.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Oreo",
+      "price": 10000,
+      "stock": 0,
+      "imageUrl": "/img/oreo.jpeg"
+    },
+    {
+      "id": "4",
+      "name": "Tango",
+      "price": 12000,
+      "stock": 5,
+      "imageUrl": "/img/tanggo.jpeg"
+    },
+    {
+      "id": "5",
+      "name": "Cokelat",
+      "price": 15000,
+      "stock": 7,
+      "imageUrl": "/img/coklat.jpg"
+    }
+  ]
+}
